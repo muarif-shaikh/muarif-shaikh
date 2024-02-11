@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muarif Shaikh</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muarif-shaikh&label=Profile%20views&color=0e75b6&style=flat" alt="muarif-shaikh" /> </p>
-
 - 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Python, Django, Backend Development**
