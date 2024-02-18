@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Python, Django, Backend Development**
+- 💬 Ask me about **Python, Django, Databases, Backend Development**
 
 - 📫 How to reach me **shaikhmuarif@gmail.com**
 
