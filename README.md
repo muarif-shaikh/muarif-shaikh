@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **shaikhmuarif@gmail.com**
 
-- ⚡ Fun fact **I once coded for 24 hours straight, fueled by nothing but tea and sheer determination. The result? An epic project and a newfound appreciation for sleep! 😄☕💻 #CodeLife**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
